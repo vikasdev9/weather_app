@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherApps</string>
+    <string name="images">images</string>
+    <string name="weather_news">Weather News</string>
+</resources>
